@@ -7,8 +7,10 @@ https://web.stanford.edu/class/cs140/projects/pintos/pintos.html
 2. Priority Scheduler (Without Priority Donation)
 3. Advanced Scheduler (MLFQ)
 
-pass tests/threads/alarm-single 
-pass tests/threads/alarm-multiple 
+Tests:
+
+1. pass tests/threads/alarm-single 
+2. pass tests/threads/alarm-multiple 
 pass tests/threads/alarm-simultaneous
 pass tests/threads/alarm-priority
 pass tests/threads/alarm-zero
